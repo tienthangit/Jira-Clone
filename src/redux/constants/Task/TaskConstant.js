@@ -1,0 +1,20 @@
+//Get
+export const GET_TASK_DETAIL_SAGA = "GET_TASK_DETAIL_SAGA";
+export const GET_TASK_DETAIL = "GET_TASK_DETAIL";
+
+//Create 
+export const CREATE_TASK_SAGA = "CREATE_TASK_SAGA"
+
+//Update State
+export const UPDATE_STATE_TASK_SAGA = "UPDATE_STATE_TASK_SAGA";
+
+// Change Task
+export const CHANGE_TASK_MODAL = "CHANGE_TASK_MODAL";
+
+// Assigness
+export const CHANGE_ASSIGNESS = "CHANGE_ASSIGNESS";
+export const REMOVE_USER_ASSIGN = "REMOVE_USER_ASSIGN";
+
+//Update Task
+export const UPDATE_TASK_SAGA = "UPDATE_TASK_SAGA"
+export const HANDLE_CHANGE_POST_API_SAGA = "HANDLE_CHANGE_POST_API_SAGA"

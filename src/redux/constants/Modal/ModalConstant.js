@@ -1,0 +1,1 @@
+export const HANDLE_MODAL = "HANDLE_MODAL";

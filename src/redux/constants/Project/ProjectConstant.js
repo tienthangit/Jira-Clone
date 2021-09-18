@@ -1,0 +1,28 @@
+// Get Category  
+export const GET_ALL_PROJECT_CATEGORY_SAGA = "GET_ALL_PROJECT_CATEGORY_SAGA";
+export const GET_ALL_PROJECT_CATEGORY = "GET_ALL_PROJECT_CATEGORY";
+
+// Get List Project CyberBugs
+export const GET_LIST_PROJECT_SAGA = "GET_LIST_PROJECT_SAGA";
+export const GET_LIST_PROJECT = "GET_LIST_PROJECT";
+
+// Create 
+export const CREATE_PROJECT_SAGA = "CREATE_PROJECT_SAGA";
+export const CREATE_PROJECT = "CREATE_PROJECT";
+
+// Edit
+export const EDIT_PROJECT = "EDIT_PROJECT";
+export const PUT_PROJECT_DETAIL = "PUT_PROJECT_DETAIL"
+
+// Delete
+export const DELETE_PROJECT_SAGA = "DELETE_PROJECT_SAGA"
+
+// Update 
+export const UPDATE_PROJECT_SAGA = "UPDATE_PROJECT_SAGA"
+
+//Get all project for Creating Task
+export const GET_ALL_PROJECT_SAGA = "GET_ALL_PROJECT_SAGA"
+export const GET_ALL_PROJECT = "GET_ALL_PROJECT"
+
+//Get project detail
+export const GET_PROJECT_DETAIL_SAGA = "GET_PROJECT_DETAIL_SAGA"
